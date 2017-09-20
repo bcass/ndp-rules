@@ -1,0 +1,4 @@
+### ARTICLE VIII - NO PROXY OR UNIT RULE VOTING
+
+No voting by proxy shall be allowed nor shall the unit rule be applied to any level of party organization.
+

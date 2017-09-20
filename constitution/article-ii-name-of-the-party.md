@@ -1,0 +1,4 @@
+### ARTICLE II - NAME OF THE PARTY
+
+The name of this organization shall be the Nebraska Democratic Party \(NDP\).
+

@@ -1,0 +1,510 @@
+### 5. STATE CENTRAL COMMITTEE
+
+#### 5.1.**Duties and Powers**
+
+5.1.1.**General Powers.**The State Central Committee shall be the permanent agency authorized to act  
+on behalf of the State Nebraska Democratic Party during the intervals between the State Convention. It is  
+a creature of the State Convention and therefore subject to its authority as may be granted to it by the  
+State Convention. Further, it shall also have power and authority to do all things reasonably necessary to  
+promote the success of the Democratic Party in National, State and Local tickets at any general election,  
+and to perform any functions imposed upon it by law or any State Party Convention.
+
+5.1.2.**Specific Powers.**In addition to the general powers listed above, the State Central Committee  
+shall have the following duties and powers:
+
+5.1.2.1 Raise funds and supervise expenditures of such funds and any funds received from the National  
+Committee for use within the State for the financing of the State Convention, campaign expenses and  
+maintenance of the State Party Office;
+
+5.1.2.2 Maintain a State Office at a location to be determined by the State Central Committee and  
+determine policies, procedures, and legal arrangements for its statewide operation and personnel;
+
+5.1.2.3 Provide appropriate assistance in statewide general election campaigns;
+
+5.1.2.4 Fill vacancies for State or National Office on the Democratic State Ticket occurring by reason of  
+change of party affiliation, death, declination or resignation of any nominee of the Democratic Party  
+within the State;
+
+5.1.2.5 Provide press and radio service, Speaker's bureaus, and organization supervision by supplying  
+literature, speakers and Democratic Party representatives;
+
+5.1.2.6 Be a liaison with Congressional District, Legislative District and County Committees and  
+coordinate all campaign-related work throughout the State;
+
+5.1.2.7 Establish a timeframe for county parties to hold County Conventions as necessary to meet the  
+requirements of state law or the Democratic National Committee, or to assist in making arrangements for  
+State Conventions.
+
+Make provisions for State Conventions including the selection of time and place, authorization of call and  
+determination, within the terms of applicable statutes, of the representatives of such State Conventions;
+
+5.1.2.8 Make provisions for State Conventions including the selection of time and place, authorization of  
+call and determination, within the terms of applicable statutes, of the representatives of such State  
+Conventions;
+
+5.1.2.9 Make physical arrangements for State Conventions, including hotel reservations, seating for  
+delegates and visitors, granting concessions, adjustment of auditorium to requirements, installation of  
+telephone, public relations and press facilities;
+
+5.1.2.10 Prepare a temporary roll of delegates to State Conventions accepted as prima facie correct  
+pending the reports of the Committee on Credentials;
+
+5.1.2.11 Call and convene a special State Convention composed of delegates duly accredited to the last  
+State Convention for the purpose of transacting any special business; provided at least ten \(10\) days'  
+notice shall be given by mail to each delegate of the time, place, and purpose of such special State  
+Convention; \(The business to be transacted at such State Convention shall be governed by these Bylaws  
+insofar as the same are applicable.\)
+
+5.1.2.12 Nominate for election by the Democratic National Committee a proper person to fill any vacancy  
+in the National representation of the Democratic National Committee;
+
+5.1.2.13 Remove by two-thirds \(2/3\) vote of those attending for good cause, and after two \(2\) weeks  
+notice and hearing, any County Chair or State Central Committee Member who has failed to attend the  
+duties of his or her office or who publicly opposes the election of a Party nominee for local, state or  
+national office. Publicly opposing a candidate from whom State Party resources have been withheld under  
+Bylaw 7.3 shall not constitute grounds for removal;
+
+5.1.2.14 Cause to be printed or made electronically available, sufficient copies of these Bylaws to  
+distribute one copy to each Delegate and Alternate elected to any Democratic State Convention and to  
+each officer of each County Central Committee, and to supply extra copies thereof to properly interested  
+parties; and
+
+5.1.2.15 To create and enforce policy regarding, relating to, or defined in the party platform; provided that  
+any policy created by the State Central Committee that in any way is in conflict or not in accord with the  
+State Party Platform must be presented in writing to the Executive Director or State Party Chair no later  
+than twenty-eight \(28\) days prior to the next regularly scheduled or special meeting and must be mailed or  
+delivered to each Central Committee Member no later than fourteen \(14\) days prior to the next regularly  
+scheduled or special meeting at which it may be discussed and voted on.
+
+5.2.**Composition.**The State Central Committee shall consist of: all State Executive Committee  
+voting members; and one man and one woman nominated by the legislative district caucuses herein  
+provided for and elected by the majority vote of the State Convention before adjournment. Each member  
+shall have only one vote at any meeting of the State Central Committee. In addition, each legislative  
+district caucus shall nominate one man and one woman to be alternate committee members who will be  
+elected by the majority vote of the State Convention and who shall only be empowered to vote in the  
+absence of the elected State Central Committee member from their district.
+
+5.3.**Officers.**Officers of the State Central Committee shall be the State Chair, two \(2\) Associate  
+Chairs, the National Committeeman and the National Committeewoman. These officers shall be  
+nominated by the Nominating Committee. Nominations may be made from the floor by any duly  
+accredited delegate. A majority of the votes cast on such nominations shall be necessary to elect said  
+officers.
+
+Additional officers of the State Central Committee shall be the Congressional District Chairs and  
+Associate Chairs who are elected in their respective Congressional District Caucuses, the State Treasurer  
+and the State Secretary. The State Treasurer and State Secretary shall be appointed by the State Chair and  
+approved by the State Central Committee.
+
+5.3.1.**Assistant Treasurer.**The State Treasurer may appoint an Assistant Treasurer whose  
+appointment must be approved by the State Chair and the State Executive Committee. The Assistant  
+Treasurer may be an employee of the Nebraska Democratic Party. The Assistant Treasurer will perform  
+such duties as are assigned by the State Treasurer or these Bylaws.
+
+#### 5.4.**Terms.**
+
+5.4.1.**Members.**Members elected to the State Central Committee shall continue in office until their  
+successors are elected at the next succeeding General Election State Convention, or as otherwise provided  
+herein. However, any member of the Committee ceasing to meet the qualifications of Article III of the  
+Constitution or who shall cease to be an active member of the State Democratic Party shall cease to be a  
+member of the Committee as of the time when such qualifications are not met.
+
+5.4.1.1**Definition of “Active Member”.**An active member of the State Democratic Party shall be an  
+individual who evidences his or her commitment to the party by regular attendance at committee  
+meetings, service on party committees, service in public office, volunteer work on electoral campaigns of  
+party members, work on voter recruitment and registration, financial contributions to the state party and  
+party candidates, or commitments of personal time and resources to the state party organization and its  
+activities.
+
+5.4.2.**Officers.**Officers of the State Central Committee shall continue in office until their respective  
+successors are elected consistent with Article IV and Article V of the Constitution.
+
+#### 5.5.**Meetings.**
+
+5.5.1.**Time and Place**. The newly elected State Central Committee shall hold an organizational  
+meeting immediately after the adjournment of the State Convention. The State Chair shall call at least  
+four \(4\) regular meetings each year scheduled among the Congressional Districts on an equitable basis.  
+The organizational meeting of a State Central Committee shall not be considered a meeting for purposes  
+of this rule. The State Chair shall fix the time and place of all such meetings with the approval of the State  
+Central Committee.
+
+A special meeting of the State Central Committee may be called by the State Chair or upon petition of  
+fifteen \(15\) State Central Committee members with at least three \(3\) members from each Congressional  
+District represented on the petition. Said petition to hold a special meeting shall be delivered to the State  
+Secretary and the State Chair. The State Chair shall fix the time and place of said special meeting within  
+ten \(10\) days of receipt of the petition, and unless otherwise specified in the petition, the special meeting  
+shall be held no more than thirty \(30\) days following receipt of the petition.
+
+5.5.2.**Quorum.**Quorum for a State Central Committee meeting is forty percent \(40%\) of the total  
+membership.
+
+5.5.3.**Minutes.**In addition to all other requirements, minutes of State Central Committee meetings  
+shall include a list of those delegates and alternates attending and a list of those delegates absent with  
+prior notice.
+
+#### 5.6.**N D P Employees.**
+
+5.6.1. The office of Executive Director of the Nebraska Democratic Party shall exist to execute the daily  
+affairs of the Party and assist the party officers and Committees in the execution of their respective duties.  
+The Executive Director shall be hired by the State Chair with the approval of the State Executive  
+Committee and with notification provided within twenty-four hours to the State Central Committee. The  
+Executive Director shall be the Assistant Secretary and Assistant Treasurer of the Party unless otherwise  
+directed by the State Chair or State Central Committee. The Executive Director shall perform such other  
+duties as prescribed by the State Chair, the Constitution, or these Bylaws.
+
+5.6.2 The State Chair may designate such paid positions as are deemed necessary. The existence of  
+such positions requires the approval of the State Central Committee.
+
+#### 5.7.**Affiliated Caucus Organizations.**
+
+5.7.1**. Recognition and Qualification**. Affiliated Caucus Organizations \(ACOs\) shall be recognized to  
+aid and assist the Nebraska Democratic Party in organizing a specific constituency for the benefit of the  
+party and its candidates for elected office. An ACO must be an organized group of Nebraska Democrats  
+with members from every Congressional District who support the NDP and its policies and objectives.  
+Membership will include registered Democrats and may include persons who will register as Democrats  
+upon becoming eligible to vote. Recognition of an ACO by the State Central Committee shall be  
+dependent upon the quality and integrity of the ACO’s governing documents, the ACO’s effectiveness  
+and the ACO’s strategic importance to the long-term growth and success of the Nebraska Democratic  
+Party.
+
+5.7.2.**Recognition Procedures**. Initial application for Recognition from a prospective ACO shall be  
+referred to the Rules Committee to review. The Committee shall: review the prospect’s governing  
+documents and meet with its leadership; ensure that the prospect provides a functional, democratic  
+process for amending its documents, electing its officers, and achieving its purpose; and make a  
+recommendation to the State Central Committee on whether to recognize the prospect as an NDP ACO.  
+Recognition must be approved by a majority vote of the State Central Committee. Recognition of an ACO  
+shall run concurrently with the biennial term of a State Central Committee.
+
+5.7.3.**Responsibilities**. ACOs shall take no public position that is inconsistent with the NDP Platform  
+and shall not publicly endorse a candidate who is not a registered Democrat in any election. Each ACO  
+shall abide by state and federal election laws regarding political committees. Each ACO must agree to  
+give its membership list \(including names and contact information\) to the State Party or contact its  
+members on behalf of the State Party when requested. Each ACO must provide the State Party with its  
+officers’ names and contact information.
+
+5.7.4.**Representation**. Upon selection of an ACO’s duly authorized representative to the NDP, the  
+elected leader of the ACO shall notify the State Chair of the name and contact information of that  
+representative. Two absences from meetings of the State Executive Committee or State Central  
+Committee during a biennial term by the designated representative or alternate will result in suspension of  
+the ACO pending a Review by the State Rules Committee.
+
+5.7.5.**Continued Recognition**. Recognition shall be automatically renewed for a new biennial term upon  
+the ACO’s submission of its current organizational documents to the State Rules Committee and updated  
+names and contact information of its officers to the State Chair by the first meeting of the State Central  
+Committee. The organizational meeting of a new State Central Committee shall not be considered the  
+“first meeting” for purposes of this rule. Failure to provide the appropriate data shall cause the ACO’s  
+Recognition to be suspended pending a Review by the State Rules Committee.
+
+5.7.6.**Review**. Recognition of an ACO may be reviewed by the State Rules Committee as provided in  
+these Bylaws or at the request of the State Central Committee to determine whether an ACO meets all  
+requirements of these Bylaws while complying with the ACO’s own organizational documents. The  
+Rules Committee shall make a recommendation on Continuing Recognition of the ACO to the State  
+Central Committee. Revocation of Recognition of an ACO must be approved by a majority vote of the  
+State Central Committee.
+
+5.8.**Officer Vacancies.**The State Central Committee shall fill vacancies in the offices of State Chair,  
+the State Associate Chairs, and National Committee Members if such vacancies occur between  
+Conventions. The methods to do so are:
+
+5.8.1.**State Chair.**The First Associate Chair will assume the duties of the State Chair on a temporary  
+basis until a new Chair is elected. Election of a new Chair shall occur at the first regular quarterly State  
+Central Committee meeting after the vacancy occurs. Procedure for such election shall be determined by  
+the State Central Committee.
+
+5.8.2.**Associate Chairs and National Committee Members.**Election of any of these officers shall  
+occur at the first regular quarterly State Central Committee meeting after the vacancy occurs. Procedure  
+for such election shall be determined by the State Central Committee.
+
+#### 5.9.**State Executive Committee.**
+
+5.9.1.**Duties and powers.**The State Executive Committee shall be authorized to act on behalf of the  
+State Central Committee during intervals between meetings of the State Central Committee, shall have  
+the power and authority to do all things reasonably necessary to promote the success of the Democratic  
+National, State and Local election tickets at any general election and the power to perform any functions  
+imposed upon it by law or by the State Central Committee.
+
+5.9.2.**Terms.**Members of the State Executive Committee shall continue in office until their successors  
+are duly elected or appointed. However, all members of the Committee ceasing to meet the qualifications  
+of Article III of the Constitution shall cease to be members of the Committee as of the time when such  
+qualifications are not met.
+
+5.9.3.**Quorum.**Quorum for the State Executive Committee shall be fifty percent \(50%\) of the voting  
+membership.
+
+5.9.4.**Non-Voting Members.**Non-voting members of the State Executive Committee shall include \(a\)  
+each statewide and federal elected office holder who is a registered Democrat, and \(b\) one \(1\) mayor of  
+the largest city having a registered Democrat as mayor from each Congressional District. Each of these  
+elected office-holders may designate an individual to represent him or her on the State Executive  
+Committee if they are unable to actively participate at a meeting.
+
+5.9.5.**Meetings.**The State Executive Committee shall hold regular meetings at least quarterly at the  
+call of the State Chair who shall fix the time and place of all such meetings. A special meeting of the State  
+Executive Committee may be called by the State Chair or upon petition of any five \(5\) voting members of  
+the State Executive Committee. Said petition to hold a special meeting shall be delivered to the State  
+Secretary and the State Chair. The State Chair shall fix the time and place of said special meeting within  
+three \(3\) days of receipt of the petition, and unless otherwise specified in the petition, the special meeting  
+shall be held no more than ten \(10\) days following receipt of the petition.
+
+5.9.6.**Vacancies.**Vacancies for any reason on the State Executive Committee shall be filled in  
+accordance with the provisions of the Constitution, see also Rule 5.1.2.11.
+
+5.9.7.**Awards.**The State Chair may appoint a selection committee to make nominations for all state  
+party awards. Nominations shall be solicited from, including but not limited to, the State Central  
+Committee and the Executive Committee. All awards made on behalf of or in the name of the Nebraska  
+Democratic Party shall be approved by the Executive Committee prior to the announcement of the award.  
+A listing of award recipients and selection procedures shall be kept on file at the State Party Office.
+
+#### 5.10.**Committees.**
+
+5.10.1.**Standing Committees.**Standing committees of the Nebraska Democratic Party shall include:  
+Platform and Resolutions; Rules; State Convention; Finance; Nominating; Archives and Historical  
+Preservation; Technology; and Audit and Review. Standing Committee Chairs shall be appointed by the  
+incoming State Chair with the approval of the State Executive and Central Committees no later than 90  
+days following the State Convention. Standing Committee Chairs shall continue in office until their  
+successors are duly appointed and approved. Committee members to be selected by Congressional  
+District Caucus shall be elected by said caucus at the first meeting of the State Central Committee. The  
+organizational meeting of a new State central Committee shall not be considered the "first meeting" for  
+purposes of this rule.
+
+5.10.1.1.**Platform and Resolutions**. The Platform and Resolutions Committee of the Nebraska  
+Democratic Party shall develop the Party’s platform and resolutions in a timely, orderly, and open  
+process, for presentation and action at each State Convention. The Committee is also responsible for a  
+timely, orderly, and open process for presenting resolutions offered for action at meetings of the State  
+Central Committee.
+
+5.10.1.1.1**Composition.**Each Congressional District Caucus shall elect four men and four women to  
+serve on the Platform and Resolutions Committee. Committee members, including the Committee Chair,  
+are not automatic Convention delegates, but are encouraged to seek such election.
+
+5.10.1.1.2**Hearings**. The committee shall conduct at least one platform hearing in each of the State’s  
+Congressional Districts during the general election year and county chairs shall be informed of such  
+hearings. A final platform hearing shall be conducted in conjunction with the State Convention.
+
+5.10.1.1.3**Platform Report**. The committee shall submit a preliminary platform \(exclusive of changes  
+proposed following the convention hearing conducted pursuant to Rule 5.10.1.1.2\), including minority  
+reports, in writing to the State Chair not later than three days following the last County Convention in the  
+year of the biennial State Convention. The Committee’s Final Report to the convention delegates at the  
+State Convention shall include the proposed Platform and resolutions recommended for adoption,  
+those forwarded without recommendation and a list of those rejected by the committee. A two-thirds  
+\(2/3\) vote of the Convention Body shall be required for consideration of a resolution not previously  
+submitted to the Committee. If a two-thirds \(2/3\) vote is not given, the presiding officer may refer the  
+matter to the Committee for report and action at the next regular meeting of the State Central Committee.
+
+5.10.1.1.4**Resolutions.**At each State Central Committee meeting, the Platform and Resolutions  
+Committee shall submit a report of those resolutions timely submitted to the committee for consideration  
+by the State Central Committee. The committee’s report to the State Central Committee shall include the  
+proposed resolutions recommended for adoption, those forwarded without recommendation, those  
+recommended for consideration at the next biennial State Convention, and a list of those not  
+recommended by the committee.
+
+A two-thirds \(2/3\) vote of the State Central Committee shall be required for consideration of a resolution  
+not submitted to the Platform and Resolutions Committee at least ten days prior to the State Central  
+Committee meeting. If a two-thirds \(2/3\) vote is not given, the State Chair shall refer the matter to the  
+committee for report and action at the next regular meeting of the State Central Committee or the next  
+biennial State Convention, whichever comes first.
+
+5.10.1.1.5**Petition**. Platform items or resolutions rejected by the Committee may be considered by the  
+Convention body provided that a written petition, containing the substitute language, signed by at least 20  
+percent of the Convention delegates present when quorum was established, is distributed to the  
+Convention prior to debate on the platform. A petition must contain signatures from each Congressional  
+District with no Congressional District represented by more than 50 percent of said signatures.
+
+5.10.1.2.**Rules.**The Rules Committee of the Nebraska Democratic Party shall prepare  
+recommendations on: amendments to the Party Constitution; amendments to the Party Bylaws; the rules  
+and order of business for the State Convention; and shall perform such other duties as assigned by the  
+State Chair or State Central Committee. The Rules Committee shall make recommendations to the State  
+Central Committee regarding Affiliated Caucus Organization recognition following the Rules  
+Committee’s initial or requested review of ACOs.
+
+5.10.1.2.1**Composition**. Each Congressional District Caucus shall elect two men and two women to  
+serve on the Rules Committee. Committee members, including the Committee Chair, are not automatic  
+convention delegates, but are encouraged to seek election.
+
+5.10.1.2.2**Reports**. Written notice of proposed changes in the Party Constitution shall conform with  
+provisions of such in the Constitution. Rules and the order of business for the State Convention shall be  
+provided in writing to the delegates prior to the convening of the convention. Proposed changes in Bylaws  
+for the state Central Committee shall be provided in writing to members at least 10 days prior to any vote  
+on said changes.
+
+5.10.1.3.**State Convention.**The State Convention Committee of the Nebraska Democratic Party  
+shall: select and nominate qualified people to serve as Permanent Officers of the State Convention; serve  
+as the site selection and arrangements committee and make recommendations on the site and  
+arrangements for approval by the State Central Committee.
+
+5.10.1.3.1**Composition**. Each Congressional District Caucus shall elect two men and two women to  
+serve on the State Convention Committee. The State Chair may appoint additional members to the  
+Committee necessary to its function once a Convention site has been approved. Committee members,  
+including the Committee Chair, are not automatic Convention delegates, but are encouraged to seek such  
+election.
+
+5.10.1.3.2**Reports**. The Convention Committee shall make its recommendation on a site for State  
+Convention in accordance with Congressional District rotation and the Bylaws of the Party one-year in  
+advance of the Convention, if possible. The Committee’s final report on the nomination of Permanent  
+Convention Officers shall be presented at State Convention.
+
+5.10.1.4.**Nominating.**The Nominating Committee of the Nebraska Democratic Party shall solicit  
+and encourage qualified people to serve in the offices of State Chair, First and Second Associate Chairs,  
+National Committeeman and National Committeewoman and conduct the nominating proceedings at the  
+appropriate State Convention or State Central Committee meeting. Nominations for these offices may  
+also be made from the floor by any duly accredited delegate.
+
+5.10.1.4.1**Composition**. Each Congressional District Caucus shall elect two men and two women to  
+serve on the Nominating Committee. Committee members, including the Committee Chair, are not  
+automatic Convention delegates, but are encouraged to seek such election.
+
+5.10.1.4.2**Reports**. The Committee shall report the nomination of the State Chair, Associate Chairs and  
+National Committeeman and National Committeewoman at the appropriate meeting of the State Central  
+Committee or State Convention; and in the case of any vacancy in said offices, the next scheduled State  
+Central Committee meeting or State Convention following notification of a vacancy.
+
+5.10.1.5.**Finance.**The Finance Committee of the Nebraska Democratic Party shall be responsible  
+for the development and implementation of an annual finance plan to include the evaluation of all fund  
+raising activities and events.
+
+5.10.1.5.1**Composition**. The Finance Committee shall be composed of at least one individual  
+from each Congressional District appointed by the State Chair.
+
+5.10.1.5.2**Reports**. The Finance Committee shall submit an annual plan for fundraising to the State  
+Central Committee no later than the end of the first quarter of each calendar year and shall provide for a  
+report on said fund raising at each meeting of the State Central Committee.
+
+5.10.1.6.**Archives and Historical Preservation.**The Archives and Historical Preservation  
+Committee shall be responsible for gathering, collecting, indexing, organizing, and preserving the  
+documents, data, and materials relating to the history and activities of the Nebraska Democratic Party in  
+whatever form or medium it exists or may be available for the purpose of insuring that an accurate record  
+of the Party’s history and activities is preserved for future reference or edification.
+
+5.10.1.6.1**Composition.**The Archives and Historical Preservation Committee shall be composed of at  
+least one individual from each Congressional District appointed by the State Chair.
+
+5.10.1.7.**Technology.**The Technology Committee shall provide feedback on new technology  
+proposals, oversee NDP technology security and annually review the state of NDP technology -  
+recommending changes as new technology becomes available and as prices change.
+
+5.10.1.7.**Definition.**The term “technology” shall include all hardware, software, servers, and  
+internet use of computers \(desktop, notebook, handheld devices, and accessories\), and shall include  
+webpage design and function, central file and record maintenance, use of internet-based resources, and  
+electronic mail \(email\) communications.
+
+5.10.1.7.2**Composition.**Each Congressional District Caucus shall elect one man and one woman to serve  
+on the Technology Committee. Those elected shall be familiar with new technologies and technology  
+issues or have the time and commitment to research relevant technology issues. The Committee Chair  
+may appoint other non-voting members to further the goals of the committee.
+
+5.10.1.7.3**Reports.**The Technology Committee shall provide a written report directly to the SEC and  
+SCC and to the group making the technology proposals. A written “State of Technology Report” shall be  
+provided to the SCC at their 4th quarter meeting each year.
+
+5.10.1.8.**Audit and Review**. The Audit & Review Committee shall review expenditures by the Nebraska  
+Democratic Party to ensure that expenditures comply with the budget or are approved by the State Central  
+Committee. The Committee shall have full access to all financial records.
+
+5.10.1.8.1**Composition.**Each Congressional District Caucus shall elect one man and one woman to  
+serve on the Audit & Review Committee. Those elected shall be familiar with general accounting  
+practices and principles. The Committee Chair may appoint other non-voting members to further the  
+goals of the Committee.
+
+5.10.1.8.2**Reviews and Reports.**The Committee may review records at any time and make necessary  
+recommendations to the State Central Committee, State Executive Committee or Party Officers. A Full  
+Review shall be conducted for a two-year period beginning on January 1 of an odd numbered year  
+through December 31 of an even numbered year. The Committee shall present a report and findings of its  
+Full Review to the State Central Committee no later than the second State Central Committee meeting in  
+the following odd numbered year. The report shall recommend whether an additional outside audit is  
+needed and what type of audit is needed.
+
+5.10.2.**Minority Reports.**The report of the minority of the members of any Standing Committee shall  
+be considered if signed by one-third of the members of the Standing Committee and offered as a  
+substitute for majority report.
+
+5.10.3.**Special Committees**. The State Chair may establish any special committee as deemed necessary  
+to carry out the functions of the party. Special committees must be approved by the State Central  
+Committee. They should be of limited duration and exist for a specific purpose or goal. Membership on a  
+special committee should be relevant to the purpose of the committee and must include representation  
+from all Congressional Districts.
+
+#### 5.11.**Handling of State Party Finances.**
+
+5.11.1.**Treasurer to Deposit and Control all Funds.**
+
+5.11.1.1 All monies received as contributions, donations, dues, or otherwise by or for the State Central  
+Committee or any club or association organized or operated under its express authority shall be paid to  
+and accounted for by the Treasurer of the State Central Committee, who shall deposit all said funds in a  
+bank or banks in the name of the Nebraska State Central Committee.
+
+5.11.1.2 All funds deposited to any bank account of the Nebraska State Central Committee shall be  
+withdrawn only on vouchers signed by the State Treasurer or Assistant State Treasurer.
+
+5.11.2**Approval of Payments by State Chair.**
+
+5.11.2.1 The State Treasurer or Assistant State Treasurer shall only pay out funds of the State Central  
+Committee on itemized statements which bear the signed approval of the State Chair or an Associate  
+Chair designated in writing by the State Chair to approve the payment of such accounts.
+
+5.11.2.2 The Chair or Associate Chairs of the Party shall not approve the payment of any statement which  
+is submitted contrary to the provisions of these Bylaws and unless in the opinion of the approving officer  
+reasonably exercised such statement represents services, merchandise, supplies, donations, or loans  
+properly obtained or used and applied or to be so used and applied for the promotion of the welfare of the  
+Democratic Party in Nebraska or the nation.
+
+5.11.2.3**Dual Signature Requirement.**Any check or negotiable instrument of over $1,000.00 drawn on  
+any account of the Nebraska Democratic Party shall require the approval of two persons authorized by the  
+State Central Committee. The approval may be the signatures of the authorized persons on the check or  
+negotiable instrument or on a document of payment authority to issue such check or negotiable  
+instrument.
+
+5.11.3.**Bonding of Treasurer.**At the discretion of the State Central Committee, the State Treasurer of  
+the State Central Committee shall be bonded by a surety company in the sum of $25,000, said bond to be  
+approved by the State Chair, by the State Executive Committee or State Central Committee.
+
+5.11.4.**Salaries, Wages, Commissions.**
+
+5.11.4.1 No Salaries or wages to be paid for a period of over two \(2\) months shall be  
+paid to any person without previous authorization by the State Central Committee or the State Executive  
+Committee.
+
+5.11.4.2 No commission for collection of funds or performance of service shall be paid to any person  
+unless the payment of such commission has been previously authorized by the State Central Committee or  
+the State Executive Committee.
+
+5.11.5.**Treasurer’s Reports.**Quarterly reports of receipts and expenditures shall be made by the State  
+Treasurer to the State Chair, who shall make the same available to the State Central Committee and the  
+State Executive Committee.
+
+5.11.6.**Audits and Reviews.**The State Central Committee shall have the right to adopt  
+recommendations and reports of the Audit and Review Committee or of an outside independent auditor.
+
+5.11.7.**Voluntary Contributions.**Contributions to the Democratic Party in Nebraska or any of its  
+authorized agencies shall always be solicited and received on a strictly voluntary basis.
+
+#### 5.12.**Coordinated Campaigns**
+
+5.12.1.**Definition.**The Coordinated Campaign is a political committee affiliated with the Nebraska  
+Democratic Party through the Nebraska Democratic State Central Committee. Its purpose shall be to  
+conduct Voter Registration, Voter Identification, Get Out the Vote and other activities consistent with the  
+guidelines established by the Federal Election Commission, State Accountability and Disclosure  
+Commission, and the Nebraska Democratic Party for candidate campaigns in the State’s various political  
+subdivisions including, but not limited to Federal, State and Legislative District campaigns.
+
+5.12.2.**Powers.**The Coordinated Campaign shall be empowered to raise and expend funds, conduct  
+campaign activities, enter into contracts and generally conduct business in furtherance of its defined  
+purpose. The Coordinated Campaign, however, shall not have the authority to obligate financially or  
+otherwise, the Nebraska Democratic Party, the State Executive Committee or State Central Committee  
+without prior approval of a majority vote of the State Executive Committee.
+
+5.12.3.**Governance.**The Coordinated Campaign shall have the authority to create its own structure with  
+the State Party Chair and his/her designate as Director, and to establish its own policies and procedures;  
+however, the governing body of the Coordinated Campaign shall include the State Party Chair, National  
+Committeeman and Committeewoman and other State Party Executive Committee members, appointed  
+by the State Party Chair, necessary to provide representation from each Congressional District.
+
+5.12.4.**Reporting.**The Coordinated Campaign shall report to the State Central Committee concerning  
+its activities at each regularly scheduled meeting of the SCC or at the special request of the same.
+
+5.12.5.**Accounting.**The Coordinated Campaign shall account for all of its income and expenditures to  
+the SCC on an annual basis and shall update the SCC concerning its funds at each regularly scheduled  
+SCC meeting or upon the special request of the same.
+
+5.12.6.**Nature of Reporting or Accounting.**Nothing in the reporting or accounting provisions of these  
+Bylaws shall be construed to include such detail of financial or strategic operations that the proprietary  
+interests or operations of participating campaigns would be compromised or made available to opposing  
+campaigns or candidates.
+
