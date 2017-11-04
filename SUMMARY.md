@@ -24,4 +24,6 @@
     * [Bylaw 7 - Party Resources](bylaws/bylaw-7-party-resources.md)
     * [Bylaw 8 - Rules of Order](bylaws/bylaw-8-rules-of-order.md)
     * [Bylaw 9 - Amendment of the Bylaws](bylaws/bylaw-9-amendment-of-the-bylaws.md)
+  * Standing Rules
+  * Special Rules of Order
 
