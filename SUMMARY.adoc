@@ -1,0 +1,27 @@
+= Summary
+
+. link:README.adoc[NDP Constitution and Bylaws]
+.. link:constitution/README.adoc[Constitution]
+... link:constitution/ARTICLE1.adoc[Article I]
+... link:constitution/ARTICLE2.adoc[Article II]
+... link:constitution/ARTICLE3.adoc[Article III]
+... link:constitution/ARTICLE4.adoc[Article IV]
+... link:constitution/ARTICLE5.adoc[Article V]
+... link:constitution/ARTICLE6.adoc[Article VI]
+... link:constitution/ARTICLE7.adoc[Article VII]
+... link:constitution/ARTICLE8.adoc[Article VIII]
+... link:constitution/ARTICLE9.adoc[Article IX]
+... link:constitution/ARTICLE10.adoc[Article X]
+.. link:bylaws/README.adoc[Bylaws]
+... link:bylaws/BYLAW1.adoc[Bylaw 1 - State Convention]
+... link:bylaws/BYLAW2.adoc[Bylaw 2 - Congressional District Caucus]
+... link:bylaws/BYLAW3.adoc[Bylaw 3 - County Organization]
+... link:bylaws/BYLAW4.adoc[Bylaw 4 - Democratic National Committee]
+... link:bylaws/BYLAW5.adoc[Bylaw 5 - State Central Committee]
+... link:bylaws/BYLAW6.adoc[Bylaw 6 - Eligibility for Ballot]
+... link:bylaws/BYLAW7.adoc[Bylaw 7 - Party Resources]
+... link:bylaws/BYLAW8.adoc[Bylaw 8 - Rules of Order]
+... link:bylaws/BYLAW9.adoc[Bylaw 9 - Amendment of the Bylaws]
+. Standing Rules
+. Special Rules of Order
+

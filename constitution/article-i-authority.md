@@ -1,7 +1,0 @@
-### ARTICLE I - AUTHORITY
-
-This Constitution supersedes any and all other previous constitutions and/or Bylaws and/or procedures of  
-the Nebraska Democratic Party. This Constitution is the supreme governing document of the Nebraska  
-Democratic Party unless in violation of any Nebraska election law, United States election laws, charter,  
-bylaws and Bylaws or procedures of the Democratic National Committee, in which case it is superseded.
-

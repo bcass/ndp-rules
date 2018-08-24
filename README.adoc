@@ -1,0 +1,9 @@
+= CONSTITUTION & BYLAWS OF THE NEBRASKA DEMOCRATIC PARTY
+
+:sectanchors:
+
+:sectlinks:
+
+include::constitution/README.adoc[]
+
+include::bylaws/README.adoc[]

@@ -1,0 +1,23 @@
+== NEBRASKA DEMOCRATIC PARTY CONSTITUTION
+
+include::PREAMBLE.adoc[]
+
+include::ARTICLE1.adoc[]
+
+include::ARTICLE2.adoc[]
+
+include::ARTICLE3.adoc[]
+
+include::ARTICLE4.adoc[]
+
+include::ARTICLE5.adoc[]
+
+include::ARTICLE6.adoc[]
+
+include::ARTICLE7.adoc[]
+
+include::ARTICLE8.adoc[]
+
+include::ARTICLE9.adoc[]
+
+include::ARTICLE10.adoc[]
