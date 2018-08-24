@@ -2,16 +2,17 @@
 
 . link:README.adoc[NDP Constitution and Bylaws]
 .. link:constitution/README.adoc[Constitution]
-... link:constitution/ARTICLE1.adoc[Article I]
-... link:constitution/ARTICLE2.adoc[Article II]
-... link:constitution/ARTICLE3.adoc[Article III]
-... link:constitution/ARTICLE4.adoc[Article IV]
-... link:constitution/ARTICLE5.adoc[Article V]
-... link:constitution/ARTICLE6.adoc[Article VI]
-... link:constitution/ARTICLE7.adoc[Article VII]
-... link:constitution/ARTICLE8.adoc[Article VIII]
-... link:constitution/ARTICLE9.adoc[Article IX]
-... link:constitution/ARTICLE10.adoc[Article X]
+... link:constitution/PREAMBLE.adoc[Preamble]
+... link:constitution/ARTICLE1.adoc[Article I – Authority]
+... link:constitution/ARTICLE2.adoc[Article II – Name of the Party]
+... link:constitution/ARTICLE3.adoc[Article III – Membership of the Party]
+... link:constitution/ARTICLE4.adoc[Article IV – Organization of the Party]
+... link:constitution/ARTICLE5.adoc[Article V – Vacancies]
+... link:constitution/ARTICLE6.adoc[Article VI – Affiliated Organizations]
+... link:constitution/ARTICLE7.adoc[Article VII – Amendments]
+... link:constitution/ARTICLE8.adoc[Article VIII – No Proxy or Unit Rule Vote]
+... link:constitution/ARTICLE9.adoc[Article IX – Procedures]
+... link:constitution/ARTICLE10.adoc[Article X – Removal of Officers]
 .. link:bylaws/README.adoc[Bylaws]
 ... link:bylaws/BYLAW1.adoc[Bylaw 1 - State Convention]
 ... link:bylaws/BYLAW2.adoc[Bylaw 2 - Congressional District Caucus]
@@ -24,4 +25,3 @@
 ... link:bylaws/BYLAW9.adoc[Bylaw 9 - Amendment of the Bylaws]
 . Standing Rules
 . Special Rules of Order
-

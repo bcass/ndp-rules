@@ -4,6 +4,8 @@
 
 :sectlinks:
 
+As Revised on June 10, 2017
+
 include::constitution/README.adoc[]
 
 include::bylaws/README.adoc[]
