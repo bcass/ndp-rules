@@ -6,6 +6,48 @@
 
 As Revised on June 10, 2017
 
-include::constitution/README.adoc[]
+== NEBRASKA DEMOCRATIC PARTY CONSTITUTION
 
-include::bylaws/README.adoc[]
+include::constitution/PREAMBLE.adoc[]
+
+include::constitution/ARTICLE1.adoc[]
+
+include::constitution/ARTICLE2.adoc[]
+
+include::constitution/ARTICLE3.adoc[]
+
+include::constitution/ARTICLE4.adoc[]
+
+include::constitution/ARTICLE5.adoc[]
+
+include::constitution/ARTICLE6.adoc[]
+
+include::constitution/ARTICLE7.adoc[]
+
+include::constitution/ARTICLE8.adoc[]
+
+include::constitution/ARTICLE9.adoc[]
+
+include::constitution/ARTICLE10.adoc[]
+
+== NEBRASKA DEMOCRATIC PARTY BYLAWS
+
+:idprefix: bylaw_
+
+include::bylaws/BYLAW1.adoc[]
+
+include::bylaws/BYLAW2.adoc[]
+
+include::bylaws/BYLAW3.adoc[]
+
+include::bylaws/BYLAW4.adoc[]
+
+include::bylaws/BYLAW5.adoc[]
+
+include::bylaws/BYLAW6.adoc[]
+
+include::bylaws/BYLAW7.adoc[]
+
+include::bylaws/BYLAW8.adoc[]
+
+include::bylaws/BYLAW9.adoc[]
