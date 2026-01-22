@@ -289,15 +289,16 @@
             text-decoration: underline;
         }
 
-        /* Support lists with counters like (a.) (b.) (c.) */
-        @counter-style lower-alpha-parens {
+         /* Support lists with counters like (a) (b) (c) */
+         @counter-style lower-alpha-parens {
             system: extends lower-alpha;
             prefix: '(';
             suffix: ') ';
         }
 
-        ol.sub-bylaw {
-            list-style-type: lower-alpha-parens
+        ol.lowercase-list {
+            list-style-type: lower-alpha-parens;
+            margin: 1rem 0 0.5rem 3rem;
         }
 
         /* Dark Mode */
@@ -897,7 +898,29 @@
                     </div>
 
                     <div class="subsection nested-1" id="bylaw-1-1-11">
-                        <p><span class="subsection-header">1.1.11. Order of Business. <span class="copy-link" onclick="copyLink('bylaw-1-1-11')">🔗</span></span> The order of business at all State Conventions shall, as far as possible, be as follows: (a.) Call to Order by State Chair; (b.) If necessary, adjournment to hold Congressional District caucuses to elect members of Convention committees; (c.) Committees leave assembly room for committee caucuses, if needed; (d.) Caucuses of delegations to select delegation chairs and vice-chairs pursuant to <a href="#bylaw-1-1-12">Bylaw 1.1.12</a>; (e.) Roll Call; (f.) Report of Committee on Credentials; (g.) Adoption of Convention Rules and Convention Agenda; (h.) Report of Convention Committee and election of permanent officers of convention; (i.) Address of Permanent Convention Chair; (j.) Adjournment to hold Congressional District Caucuses to elect Congressional District Chairs and Congressional District Vice Chairs; (k). Caucuses of the delegates by Legislative Districts to select members of the State Central Committee; (l.) Convention reconvenes after Congressional District and Legislative District Caucuses; (m.) Report of the Nominations Committee and election of State Chair, Vice Chair, and National Committee Representatives (if positions are up for election); (n.) Report of the caucus of county chairs on the election of the Vice Chair of County Parties; (o.) Report of the Presidential Electors Committee and selection of presidential electors (in Presidential Election Years only); (p.) Reports of other Standing Committees except the Platform and Resolutions Committee; (q.) Report of the Platform and Resolutions Committee and action thereon; (r.) Other business; (s.) Adjournment. Introduction of candidates and elected officials and/or speeches from such candidates and elected officials will be at the Convention Chair's discretion.</p>
+                        <p><span class="subsection-header">1.1.11. Order of Business. <span class="copy-link" onclick="copyLink('bylaw-1-1-11')">🔗</span></span> The order of business at all State Conventions shall be, as far as possible, as follows:</p>
+                        <ol class="lowercase-list">
+                            <li>Call to Order by State Chair;</li>
+                            <li>If necessary, adjournment to hold Congressional District Caucuses to elect members of Convention Committees;</li>
+                            <li>Convention Committees leave the assembly room for committee meetings, if needed;</li>
+                            <li>Caucuses of delegations to select delegation chairs and vice chairs pursuant to <a href="#bylaw-1-1-12">Bylaw 1.1.12</a>;</li>
+                            <li>Roll Call;</li>
+                            <li>Report of Committee on Credentials;</li>
+                            <li>Adoption of Convention Rules and Convention Agenda;</li>
+                            <li>Report of State Convention Committee and election of permanent officers of convention;</li>
+                            <li>Address of Permanent Convention Chair;</li>
+                            <li>Adjournment to hold Congressional District Caucuses to elect Congressional District Chairs and Congressional District Vice Chairs;</li>
+                            <li>Caucuses of the delegates by Legislative Districts to select members of the State Central Committee;</li>
+                            <li>Convention reconvenes after Congressional District and Legislative District Caucuses;</li>
+                            <li>Report of the Nominations Committee and election of State Chair, Vice Chair, and National Committee Representatives (if positions are up for election);</li>
+                            <li>Report of the caucus of county chairs on the election of the Vice Chair of County Parties;</li>
+                            <li>Report of the Presidential Electors Committee and selection of presidential electors (in Presidential Election Years only);</li>
+                            <li>Reports of other Standing Committees except the Platform and Resolutions Committee;</li>
+                            <li>Report of the Platform and Resolutions Committee and action thereon;</li>
+                            <li>Other business;</li>
+                            <li>Adjournment.</li>
+                        </ol>
+                        <p>Introduction of candidates and elected officials and/or speeches from such candidates and elected officials will be at the Convention Chair's discretion.</p>
                     </div>
 
                     <div class="subsection nested-1" id="bylaw-1-1-12">
