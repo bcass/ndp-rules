@@ -180,8 +180,11 @@
         /* Main Content */
         .main-content {
             flex: 1;
-            padding: 0 3rem 2rem 3rem;
             max-width: 900px;
+        }
+
+        .document-section > :not(.section-header) {
+            margin: 0 1rem;
         }
 
         .document-section {
@@ -191,11 +194,12 @@
         .section-header {
             background: var(--primary-blue);
             color: white;
-            padding: 1.5rem 2rem;
-            margin: 3rem -3rem 2rem -3rem;
+            padding: 1.5rem;
+            margin-bottom: 2rem;
             font-size: 1.8rem;
             font-weight: 700;
             text-align: center;
+            width: 100%;
         }
 
         /* Make sure anchor links bring the element below the header rather than under it. */
@@ -203,10 +207,6 @@
             scroll-margin-top: var(--header-height);
         }
 
-        .constitution-top-spacer {
-            /* override the 3rem margin from .section-header */
-            margin-top: 0rem;
-        }
 
         /* Article/Bylaw Styles */
         .article, .bylaw {
@@ -256,7 +256,7 @@
         .section-title {
             font-size: 1.2rem;
             color: var(--dark-gray);
-            margin: 1.5rem 0 1rem 0;
+            margin: 1.5rem 0 1rem 0.5rem;
             font-weight: 700;
             position: relative;
             padding-right: 2rem;
@@ -289,8 +289,8 @@
             text-decoration: underline;
         }
 
-         /* Support lists with counters like (a) (b) (c) */
-         @counter-style lower-alpha-parens {
+        /* Support lists with counters like (a) (b) (c) */
+        @counter-style lower-alpha-parens {
             system: extends lower-alpha;
             prefix: '(';
             suffix: ') ';
@@ -299,6 +299,10 @@
         ol.lowercase-list {
             list-style-type: lower-alpha-parens;
             margin: 1rem 0 0.5rem 3rem;
+        }
+
+        ol.lowercase-list li {
+            padding-bottom: 0.5rem;
         }
 
         /* Dark Mode */
@@ -447,16 +451,13 @@
                 display: none;
             }
 
-            .main-content {
-                padding: 1rem;
-            }
-
             .header h1 {
                 font-size: 1.2rem;
             }
 
             .header .logo-wrapper {
                 float: none;
+                max-width: 300px;
             }
 
             .header-controls #toc-toggle {
