@@ -12,10 +12,11 @@
         }
 
         :root {
-            --primary-blue: #1a5091;
-            --ndp-dark-blue: #182a54;
-            --ndp-medium-blue: #1a5091;
-            --light-blue: #e8f1f8;
+            font-family: 'Lato', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', 'Verdana', sans-serif;
+            --primary-blue: #002856;
+            /* --ndp-dark-blue: #182a54; */
+            --ndp-medium-blue: #194f90;
+            --ndp-light-blue: #22a1c4;
             --accent-red: #c8102e;
             --dark-gray: #333;
             --light-gray: #f5f5f5;
@@ -26,7 +27,6 @@
         }
 
         body {
-            font-family: Georgia, 'Times New Roman', serif;
             line-height: 1.6;
             color: var(--dark-gray);
             background: #fff;
@@ -61,8 +61,17 @@
         }
 
         .header h1 {
+            font-family: "Rama Gothic", "Oswald", "Alternate Gothic", "Impact", sans-serif;
             font-size: 1.5rem;
             margin-bottom: 0.25rem;
+        }
+
+        h2 {
+            font-family: "Oswald", Impact, "Franklin Gothic Bold", sans-serif;
+        }
+
+        h3 {
+            font-family: "Rubik", "Quicksand", "Nunito", "Inter", sans-serif;
         }
 
         .header .revised-date {
@@ -90,7 +99,7 @@
         }
 
         .btn:hover {
-            background: var(--light-blue);
+            background: var(--ndp-light-blue);
             transform: translateY(-1px);
         }
 
@@ -196,7 +205,7 @@
             color: white;
             padding: 1.5rem;
             margin-bottom: 2rem;
-            font-size: 1.8rem;
+            font-size: 2rem;
             font-weight: 700;
             text-align: center;
             width: 100%;
@@ -215,7 +224,7 @@
         }
 
         .article-title, .bylaw-title {
-            font-size: 1.4rem;
+            font-size: 1.5rem;
             color: var(--primary-blue);
             margin-bottom: 1rem;
             font-weight: 700;
